@@ -7,4 +7,4 @@ Para ver a estrutura por trás do site e quais códigos usei, entre no arquivo �
 
 Se quiser acessar o site, você pode fazer isso [clicando aqui](https://lucasnogueiragomes.github.io/projeto-site/)!
 
-´´A escalada pode ser longa, mas a vista vale a pena!´´
+´´A escalada pode ser longa, mas a vista vale a pena!´´ -Taric
